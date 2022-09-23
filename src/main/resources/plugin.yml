@@ -1,0 +1,8 @@
+name: MaxHealth
+version: '${project.version}'
+main: cn.goldenpotato.maxhealth.Maxhealth
+api-version: 1.14
+commands:
+  mh:
+    description: "MaxHealth"
+    usage: "/mh"
